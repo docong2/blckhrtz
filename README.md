@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on myself to come in use for my country 
+- 🌱 I’m currently learning BugHunting, WebApp Pentesting
+- ⚡ Fun fact: Don't Know where to start😄😄😄
 
 <!--
 **BlckHrtz/blckhrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
